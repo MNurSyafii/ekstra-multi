@@ -1,0 +1,4 @@
+Akun Admin	:
+
+Username	: admin
+Password	: 12345
